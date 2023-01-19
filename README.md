@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+task manager for helping people keep track of what they need to do
+
+can edit/delete task that are no longer needed
+
+check off tasks when completed
+
+slide left on tasks to access delete and edit buttons
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
